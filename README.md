@@ -12,7 +12,7 @@
 </a>
 
 <a name="project-description"><h2>1. Описание проекта</h2></a>
-Данный проект - REST API на Java с использованием jersey (JAX-RS). Также использованы JPA, Hibernate (Jakarta Persistence), XML и JSON для обмена данными, ORM, Servlets и Apache Tomcat. Сам проект представляет из себя простейший CRUD для взаимодействия клиента с базой данных.
+Данный проект - REST API на Java с использованием jersey (JAX-RS). Также использованы JPA, Hibernate (Jakarta Persistence), XML и JSON для обмена данными, ORM, Servlets и Apache Tomcat. Сам проект представляет из себя простейший CRUD для взаимодействия клиента с базой данных (MySQL).
 
 <a name="functionality"><h2>2. Функциональность проекта</h2></a>
 
